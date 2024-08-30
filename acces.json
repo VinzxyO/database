@@ -1,7 +1,7 @@
 {
   "Crealint": {
-    "ip": "103.150.218.252",
-    "code_verifikasi": "rainer",
-    "acces": true
+    "IP_SERVER": "103.150.218.252",
+    "CODE_VERIFIKASI": "rainer",
+    "AKSES": true
   }
 }
