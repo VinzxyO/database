@@ -1,0 +1,11 @@
+{
+  "status": true,
+  "data": {
+    "_id": "beta.1.1.1",
+    "version": "1.1.1",
+    "commit": "fix bug pada fitur jpmgc",
+    "url": "Update is available, please update the script first",
+    "type": "beta",
+    "at": 1704609731189
+  }
+}
